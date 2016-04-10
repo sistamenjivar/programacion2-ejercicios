@@ -1,0 +1,2 @@
+Programa que dado un entero de tres dígitos, entrega el número con los
+dígitos en orden inverso.

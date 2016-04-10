@@ -1,0 +1,2 @@
+Programa que recibe como entrada el radio de un círculo y entregue como salida su
+perímetro y su área.

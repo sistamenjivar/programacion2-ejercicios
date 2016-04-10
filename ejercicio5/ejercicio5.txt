@@ -1,0 +1,2 @@
+Programa que recibe como entrada el multiplicador y el multiplicando, y entregue
+como resultado el producto de ambos, calculado mediante el metodo de multiplicacion rusa.
